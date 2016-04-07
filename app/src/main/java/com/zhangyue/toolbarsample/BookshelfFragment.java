@@ -11,6 +11,7 @@ import android.widget.LinearLayout;
 import android.widget.TextView;
 
 /**
+ * 类文件头注释
  * test for fragment
  * Created by sanwe_000 on 2016/2/16.
  */
